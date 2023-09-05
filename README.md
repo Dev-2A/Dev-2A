@@ -55,6 +55,9 @@ The goal🏅 is to call myself a developer someday!
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=ffffff"/>
 </div>
 
+<br/>
+
+
 <!--
 <a href="https://www.linkedin.com/in/link2a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/>
