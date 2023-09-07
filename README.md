@@ -57,8 +57,14 @@ The goal🏅 is to call myself a developer someday!
 
 <br/>
 
-<!-- steam game box start -->
-<!-- steam game box end -->
+## Step by Step
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangi826)](https://solved.ac/tangi826)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tangi826&theme=cold)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Dev-2A&color=blue&style=flat-square)
 
 <!--
 <a href="https://www.linkedin.com/in/link2a" target="_blank">
