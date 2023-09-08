@@ -27,7 +27,7 @@ The goal🏅 is to call myself a developer someday!
       ⚡ Fun fact: I was Librarian 
     </td>
     <td valign="top" width="50%">
-        <img src="https://i.pinimg.com/564x/fe/36/d9/fe36d97a7fea4c8bd03c8fd61bde315e.jpg"/>
+        <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
     </td>
   </tr>
 </table>  
