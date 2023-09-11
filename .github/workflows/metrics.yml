@@ -1,4 +1,5 @@
 name: Compact display
+
 uses: Dev-2A/metrics@latest
 with:
   filename: metrics.plugin.achievements.compact.svg
