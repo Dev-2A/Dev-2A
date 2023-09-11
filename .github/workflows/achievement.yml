@@ -1,5 +1,5 @@
 name: Compact display
-uses: lowlighter/metrics@latest
+uses: Dev-2A/metrics@latest
 with:
   filename: github-achievement.svg
   token: ${{ secrets.METRICS_TOKEN }}
