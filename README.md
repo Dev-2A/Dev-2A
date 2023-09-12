@@ -64,6 +64,10 @@ The goal🏅 is to call myself a developer someday!
 
 <br/>
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
+<br/>
+
 ![](https://komarev.com/ghpvc/?username=Dev-2A&color=blue&style=flat-square)
 
 <!--
