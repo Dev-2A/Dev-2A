@@ -57,14 +57,17 @@ The goal🏅 is to call myself a developer someday!
 
 <br/>
 
+## My Github
+
+![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.activity.svg)
+
+<br/>
+
 ## Step by Step
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangi826)](https://solved.ac/tangi826)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tangi826&theme=cold)
-
-<br/>
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <br/>
 
