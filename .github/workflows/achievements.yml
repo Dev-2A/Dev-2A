@@ -7,7 +7,7 @@ jobs:
   github-achievements:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     steps:
       - uses: Dev-2A/metrics@latest
         with:
