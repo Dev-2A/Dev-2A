@@ -61,6 +61,7 @@ The goal🏅 is to call myself a developer someday!
 
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.activity.svg)
+![Metrics](/metrics.plugin.languages.svg)
 
 <br/>
 
