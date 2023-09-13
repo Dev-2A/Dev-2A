@@ -18,5 +18,3 @@ jobs:
           plugin_music: yes
           plugin_music_mode: recent
           plugin_music_provider: youtube
-        prod:
-          skip: true
