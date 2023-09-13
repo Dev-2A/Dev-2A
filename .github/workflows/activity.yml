@@ -18,4 +18,3 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: push, comment, wiki, fork, public
-          config_display: columns
