@@ -2,7 +2,7 @@ name: Recent activity
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push: {brances: ["master", "main"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-activity:
     runs-on: ubuntu-latest
@@ -18,3 +18,4 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: push, comment, wiki, fork, public
+          config_display: columns
