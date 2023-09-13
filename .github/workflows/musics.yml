@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.musics.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKEN }}
           plugin_music: yes
