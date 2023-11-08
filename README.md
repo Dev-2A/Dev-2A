@@ -92,9 +92,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
-<div align = center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangbeom1&show_icons=true&locale=en&layout=compact" alt="sangbeom1" /></p>
-</div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangbeom1&show_icons=true&locale=en" alt="sangbeom1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangbeom1&" alt="sangbeom1" /></p>
