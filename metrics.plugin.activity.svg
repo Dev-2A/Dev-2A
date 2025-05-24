@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Dev-2A/ffxiv-loot-manager-claude</span>
+                                        <span class="repo">Dev-2A/ffxiv-raid-manager-claude</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#13345e3</div>
-                                        <div class="message">✨ 2025.05.15. save(2)</div>
+                                        <div class="sha">#26e4f3d</div>
+                                        <div class="message">Delete start.bat</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Dev-2A/ffxiv-loot-manager-claude</span>
+                                        <span class="repo">Dev-2A/ffxiv-raid-manager-claude</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21360ce</div>
-                                        <div class="message">✨ 2025.05.15. save(1)</div>
+                                        <div class="sha">#9070378</div>
+                                        <div class="message">Delete setup_project.py</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Dev-2A/ffxiv-loot-manager-claude</span>
+                                        <span class="repo">Dev-2A/ffxiv-raid-manager-claude</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#04cc75a</div>
-                                        <div class="message">✨ 2025.05.13. save(6)</div>
+                                        <div class="sha">#1b66da3</div>
+                                        <div class="message">Delete run.py</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Dev-2A/ffxiv-loot-manager-claude</span>
+                                        <span class="repo">Dev-2A/ffxiv-raid-manager-claude</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d199abc</div>
-                                        <div class="message">✨ 2025.05.13. save(5)</div>
+                                        <div class="sha">#bfb499c</div>
+                                        <div class="message">Delete requirements.txt</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Dev-2A/ffxiv-loot-manager-claude</span>
+                                        <span class="repo">Dev-2A/ffxiv-raid-manager-claude</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#161a459</div>
-                                        <div class="message">✨ 2025.05.13. save(4)</div>
+                                        <div class="sha">#8de3d84</div>
+                                        <div class="message">Delete README.md</div>
                                     </div>
                                 </div>
                             </section>
