@@ -129,7 +129,7 @@ const developer2A = {
 <div align="center">
 
 <!-- Last.fm Recently Played -->
-![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Listner_2A&count=3&width=600&bg_color=EAF6FA&text_color=2C3E50&title_color=4A90E2&artist_color=6EC1E4&border_radius=12)
+![2A's Last.fm stats](https://lastfm-recently-played.vercel.app/api?user=Listner_2A&count=5&width=500&bg_color=83C8D8&border_radius=12)
 
 > 🎧 *Coding with the perfect soundtrack... one track at a time*
 
