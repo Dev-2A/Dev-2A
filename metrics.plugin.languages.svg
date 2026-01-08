@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.29364887708283" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="164.29364887708283" y="0" width="155.684880475101" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="319.97852935218384" y="0" width="96.21477972557399" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="416.1933090777578" y="0" width="43.80669092224215" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.58334482815698" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="166.58334482815698" y="0" width="158.40978586522917" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="324.99313069338615" y="0" width="92.76903128982957" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="417.7621619832158" y="0" width="42.23783801678428" height="8" fill="#008000"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ff0000" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ffa500" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Python
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
